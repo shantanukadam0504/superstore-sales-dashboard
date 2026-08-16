@@ -114,7 +114,6 @@ The dashboard was developed in Microsoft Power BI using:
 - KPI Cards
 - Bar Charts
 - Line Charts
-- Donut Charts
 - DAX Measures
 - Interactive visual filtering
 
