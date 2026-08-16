@@ -119,8 +119,12 @@ The dashboard was developed in Microsoft Power BI using:
 - Interactive visual filtering
 
 ### Sales Overview Dashboard
+<img width="1105" height="646" alt="Screenshot 2026-08-17 003625" src="https://github.com/user-attachments/assets/f3907a3a-2436-4590-a657-8b1f852370c5" />
+
 
 ### Product Analysis Dashboard
+<img width="1098" height="632" alt="Screenshot 2026-08-17 003643" src="https://github.com/user-attachments/assets/311796fe-415f-470c-91e6-185071a9d2dd" />
+
 
 ---
 
